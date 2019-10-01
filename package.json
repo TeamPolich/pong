@@ -1,0 +1,22 @@
+{
+  "name": "pong",
+  "version": "1.0.0",
+  "description": "A pong game made by Luke and Uncle Kyle",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TeamPolich/pong.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TeamPolich/pong/issues"
+  },
+  "homepage": "https://github.com/TeamPolich/pong#readme",
+  "dependencies": {
+    "pixi.js": "^5.1.5"
+  }
+}
